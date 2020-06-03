@@ -3,4 +3,3 @@ def find_max_value(array)
 end
 
 
-#numbers.each { |n| max_num = n if n > max_num }
